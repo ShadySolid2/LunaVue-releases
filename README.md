@@ -1,4 +1,6 @@
-# 🌙 LunaVue
+<p align="center"><img src="logo.png" alt="LunaVue" width="96" height="96"></p>
+
+<h1 align="center">LunaVue</h1>
 
 **Your home for every story.** Track the movies, TV shows, anime, manga and books you love, all in one place, with a night-sky look that follows the real moon and planets.
 
