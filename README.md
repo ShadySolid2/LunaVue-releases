@@ -8,6 +8,8 @@ LunaVue is free, has no ads and no tracking, and works offline. It is currently 
 
 **[⬇ Download the latest version](https://github.com/ShadySolid2/LunaVue-releases/releases/latest)** · Android and Windows
 
+🌐 **[Website](https://moonbase.rudzillaman.workers.dev/welcome)** · or **[use it in your browser](https://moonbase.rudzillaman.workers.dev/)**
+
 ---
 
 ## What it does
@@ -17,6 +19,8 @@ LunaVue is free, has no ads and no tracking, and works offline. It is currently 
 - Seasons and episodes, chapters and pages, with quick −1 / +1 buttons
 - Statuses: Planned, In Progress, Completed, On Hold and Dropped
 - Ratings, notes, tags, start and finish dates, and rewatch counts
+- Undo after +1, a status change or deleting a title
+- Pick what you track (say, only anime and books) and LunaVue shows just that
 - Trailers for movies, shows and anime, played right in the app
 
 **Never miss an episode**
@@ -25,7 +29,7 @@ LunaVue is free, has no ads and no tracking, and works offline. It is currently 
 - A Home screen with what you're watching, what's airing soon and what you added recently
 
 **Bring your lists with you**
-- Import from MyAnimeList, Letterboxd, Goodreads and Trakt
+- Import from MyAnimeList, AniList, Kitsu, Trakt, IMDb, Letterboxd, Goodreads, The StoryGraph, Simkl and **TV Time** (closed in 2026: bring your history over)
 - Import your manga from **Mihon / Tachiyomi** backups and your books from **ReadEra** backups
 - Point LunaVue at the backup folder of Mihon or ReadEra and it keeps up with your newest backup by itself
 
@@ -36,6 +40,8 @@ LunaVue is free, has no ads and no tracking, and works offline. It is currently 
 - **Tonight's sky**: which planets you can see tonight
 - Your own wallpaper, including GIFs and short videos
 - A Calm mode that switches off animations, for slower phones
+- Text size from Small to Largest, and labels for screen readers
+- Android home-screen widgets: Continue watching, Airing soon, This week and your Streak
 - Six languages: English, Afrikaans, Spanish, Portuguese, Japanese and Chinese
 
 **Achievements and stats**
@@ -44,6 +50,8 @@ LunaVue is free, has no ads and no tracking, and works offline. It is currently 
 
 **Sync and safety**
 - Sign in with **Discord, Google or GitHub** to sync your library across devices (optional)
+- Two-way **AniList** sync: progress moves both ways
+- An optional app lock on Android (fingerprint, face or PIN), and automatic backups to a folder you pick
 - Automatic snapshots before big changes, and backups you can export at any time
 
 ---
@@ -55,7 +63,7 @@ LunaVue is free, has no ads and no tracking, and works offline. It is currently 
 2. Open it. If Android asks, allow your browser or file manager to **install unknown apps**.
 3. Tap **Install**.
 
-LunaVue tells you when a new version is ready. Download it and install it over the old one: your library stays.
+LunaVue downloads and installs updates itself, after checking they're genuine. You allow it once the first time. Your library stays.
 
 ### Windows
 - **`LunaVue-Setup.exe`** installs LunaVue with a Start-menu shortcut.
@@ -69,6 +77,7 @@ Windows may show *"Windows protected your PC"* because LunaVue is new and not ye
 
 Your library stays on your device unless you sign in to sync. LunaVue has no ads, no analytics and no tracking.
 
+- [LunaVue's website](https://moonbase.rudzillaman.workers.dev/welcome)
 - [Privacy Policy](https://moonbase.rudzillaman.workers.dev/privacy)
 - [Terms of Service](https://moonbase.rudzillaman.workers.dev/terms)
 
