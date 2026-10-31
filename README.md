@@ -4,7 +4,7 @@
 
 **Your home for every story.** Track the movies, TV shows, anime, manga and books you love, all in one place, with a night-sky look that follows the real moon and planets.
 
-LunaVue is free, has no ads and no tracking, and works offline. It is currently in **beta**.
+LunaVue is free, has no ads and no tracking, and works offline.
 
 **[⬇ Download the latest version](https://github.com/ShadySolid2/LunaVue-releases/releases/latest)** · Android and Windows
 
